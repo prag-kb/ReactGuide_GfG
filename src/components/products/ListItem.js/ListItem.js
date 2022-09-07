@@ -1,6 +1,6 @@
 import React from "react";
 
-const ListItem = (data) => {
+const ListItem =  ({data}) => {
     // const data = {
     //     discountedPrice : 340,
     //     price: 450,
